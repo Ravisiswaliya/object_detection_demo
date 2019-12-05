@@ -1,0 +1,26 @@
+<annotation>
+	<folder>shirt</folder>
+	<filename>photo274.jpg</filename>
+	<path>/Users/ravisiswaliya/Desktop/Work/web-scrap/img-download/shirt/photo274.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>137</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>75</ymin>
+			<xmax>133</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

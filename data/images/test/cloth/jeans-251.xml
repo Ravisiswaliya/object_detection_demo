@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jeans</folder>
+	<filename>jeans-251.jpg</filename>
+	<path>/Users/ravisiswaliya/Desktop/Work/web-scrap/img-download/jeans/jeans-251.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>130</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jeans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>20</ymin>
+			<xmax>113</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tops</folder>
+	<filename>shoes30.jpg</filename>
+	<path>/home/st01/Pictures/tops/shoes30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>314</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>314</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tshirts</folder>
+	<filename>tshirts6.jpg</filename>
+	<path>/home/st01/Pictures/tshirts/tshirts6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tshirt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>64</ymin>
+			<xmax>155</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

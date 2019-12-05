@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tops</folder>
+	<filename>tops109.jpg</filename>
+	<path>/home/st01/Pictures/tops/tops109.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>162</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tops</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>90</ymin>
+			<xmax>162</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>
